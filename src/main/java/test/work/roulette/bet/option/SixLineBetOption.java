@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 
 public class SixLineBetOption implements BetOption {
 
-    private static final String BET_NAME = "six line";
+    private static final String BET_NAME = "six_line";
     private static final int BET_SIZE = 6;
     private static final int MULTIPLIER = 6;
 

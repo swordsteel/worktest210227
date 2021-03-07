@@ -9,7 +9,7 @@ import java.util.Set;
 
 public class SplitBetOption implements BetOption {
 
-    private static final String BET_NAME = "single";
+    private static final String BET_NAME = "split";
     private static final int BET_SIZE = 2;
     private static final int MULTIPLIER = 18;
 
